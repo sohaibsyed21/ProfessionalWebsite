@@ -1,0 +1,102 @@
+html{
+    width:1080px;
+    margin:auto;
+    background-color: rgb(117, 141, 120);
+}
+
+header{
+    text-align: center;
+}
+header nav#HomeNav ul li{
+    list-style-type: none;
+    margin: 0px 0px 0px 0px;
+    display: inline;
+
+}
+header nav#HomeNav ul{
+    background-color:white;
+    font-size: 1.5em;
+    font-weight: bold;
+    position: relative;
+    margin:0px 0px 0px 0px;
+}
+@font-face {
+    font-family:Fred ;
+    src: url(Fredoka_One/FredokaOne-Regular.ttf);
+}
+@font-face {
+    font-family:Yuji ;
+    src: url(Yuji_Syuku/YujiSyuku-Regular.ttf);
+}
+@font-face {
+    font-family: Roboto;
+    src: url(Roboto_Condensed/RobotoCondensed-Regular.ttf);
+}
+@font-face {
+    font-family:Nunito ;
+    src: url(./Nunito_Sans/NunitoSans-Regular.ttf);
+}
+@font-face {
+    font-family:NunitoI ;
+    src: url(./Nunito_Sans/NunitoSans-Italic.ttf);
+}
+@font-face {
+    font-family:Courgette ;
+    src: url(./Courgette/Courgette-Regular.ttf);
+}
+@font-face {
+    font-family:playfair ;
+    src: url(./Playfair_Display/static/PlayfairDisplay-Medium.ttf);
+}
+
+
+h1, h2{
+    text-align: center;
+    font-family:Courgette ;
+    color: white;
+}
+
+h3{
+    text-align: center;
+    color: white;
+    font-family: playfair;
+
+}
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:20% ;
+}
+section#Me{
+    border-bottom: 2px dashed #e1cdb4;
+}
+
+p{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+}
+
+section#Hobbies{
+    border-bottom: 2px dashed #e1cdb4;
+}
+section#Hobbies div.Gaming, div.Sports{
+    border-bottom: 1px solid black;
+}
+footer{
+    text-align: center;
+}
+footer nav ul li{
+    list-style-type: none;
+    margin: 0px 0px 0px 0px;
+    display: inline;
+
+}
+footer navul{
+    background-color:white;
+    font-size: 1.5em;
+    font-weight: bold;
+    position: relative;
+    margin:0px 0px 0px 0px;
+}

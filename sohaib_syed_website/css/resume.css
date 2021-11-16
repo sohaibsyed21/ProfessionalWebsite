@@ -1,0 +1,94 @@
+html{
+    width: 960px;
+    margin:auto;
+    background-color: #e1cdb4;
+}
+header{
+    text-align: center;
+}
+header nav#WebsiteNav ul li{
+    list-style-type: none;
+    margin: 0px 0px 0px -40px;
+
+}
+header nav#WebsiteNav{
+    background-color:white;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+body{
+    background-color: rgb(117, 141, 120);
+}
+div#page{
+    text-indent: 20px;
+}
+nav#contact_info ul li{
+    display: inline;
+    list-style-type: none;
+    color: white;
+}
+nav#contact_info ul{
+    position: relative;
+    margin: 0px 0px 0px 0px;
+}
+h1{
+    color: #ffffff;
+    font-family: 'Oswald';
+    font-size: 4em;
+}
+@font-face {
+    font-family:Yuji ;
+    src: url(Yuji_Syuku/YujiSyuku-Regular.ttf);
+}
+@font-face {
+    font-family: Roboto;
+    src: url(Roboto_Condensed/RobotoCondensed-Regular.ttf);
+}
+@font-face {
+    font-family:Nunito ;
+    src: url(./Nunito_Sans/NunitoSans-Regular.ttf);
+}
+@font-face {
+    font-family:NunitoI ;
+    src: url(./Nunito_Sans/NunitoSans-Italic.ttf);
+}
+
+h2{
+    font-family: Yuji;
+    color:white;
+    font-size: 2em;
+}
+h3{
+    font-family: Roboto;
+    font-size: 1.2em;
+    color:rgb(203, 253, 255);
+}
+div#page li{
+    color:white;
+    font-family: Nunito;
+}
+section#Projects p{
+    color:white;
+    font-family: NunitoI;
+}
+section#Extracurricular p{
+    color:white;
+    font-family: Nunito;
+}
+section#WorkExperience p{
+    color:white;
+    font-family: NunitoI;
+}
+div#page section#Education{
+    border-bottom: 1px solid black;
+}
+div#page section#Projects{
+    border-bottom: 1px solid black;
+}
+
+div#page section#WorkExperience{
+    border-bottom: 1px solid black;
+}
+div#page section#Skills{
+    border-bottom: 1px solid black;
+}
