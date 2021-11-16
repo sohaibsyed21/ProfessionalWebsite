@@ -1,4 +1,5 @@
 # ProfessionalWebsite
-HTML/CSS Website about me.
 
-Used my basic HTML and CSS skills to create a valid and accessible HTML5 website.
+Used my HTML and CSS skills to build a wesbite about me. 
+
+A simple, valid, and accessible website to showcase me and my resume.
