@@ -81,9 +81,9 @@ p{
 section#Hobbies{
     border-bottom: 2px dashed #e1cdb4;
 }
-section#Hobbies div.Gaming, div.Sports{
+/* section#Hobbies div.Gaming, div.Sports{
     border-bottom: 1px solid black;
-}
+} */
 footer{
     text-align: center;
 }
